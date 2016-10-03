@@ -1,0 +1,5 @@
+[info]
+title=Linter for Haml, using ruby-haml
+desc=Linter for CudaLint, adds support for Haml lexer, using Ruby haml-package
+type=cudatext-plugin
+subdir=cuda_lint_haml
